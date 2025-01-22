@@ -26,6 +26,3 @@ You can reach me via email at rijanmjahi21@gmail.com
 
 ## 📝 Fun Fact
 I love creating artwork and am also working on building an online art gallery to showcase my sketches and paintings!
-
-## 🎉 Animated Emoji Example
-![Excited Animated Emoji](https://media.giphy.com/media/26gsggs6u5rSNeR1i/giphy.gif)
