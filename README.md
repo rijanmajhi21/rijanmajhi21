@@ -9,18 +9,16 @@ I'm a passionate **Frontend Developer** and **Designer** with a strong interest 
 - **Other Interests**: Problem-solving, creative design, and staying updated with the latest web trends.
 
 When I'm not coding, I love sketching, painting, and contributing to open-source projects.
-
-## <details>
-  <summary><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30"> Resume</summary>
+<summary><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30"> Resume</summary>
   
-  ### Experience
+### Experience
   - **Frontend Developer** at XYZ Company (2023 - Present)
     - Developed scalable and user-friendly web applications.
     - Collaborated with cross-functional teams to deliver high-quality products.
   - **Intern** at ABC Corporation (2022 - 2023)
     - Built reusable UI components and fixed bugs in the company's primary platform.
 
-  ### Education
+### Education
   - **Bachelor's Degree in Computer Science** from University of ABC (2019 - 2023)
     - Graduated with distinction and top of the class.
   - **High School Diploma** from XYZ School (2017 - 2019)
