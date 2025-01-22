@@ -34,7 +34,8 @@ When I'm not coding, I love sketching, painting, and contributing to open-source
 
 </details>
 
-## <img src="https://media.giphy.com/media/2t9sDPrlvFpdK/giphy.gif" width="30"> 📊 Stats
+## <img src="![image](https://github.com/user-attachments/assets/521f0cc6-e108-4ea5-b437-f6ed7526a530)
+" width="30"> Stats
 ![Rijan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rijanmajhi21&show_icons=true&theme=radical)
 
 ## <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="30"> 🌍 Connect with Me
