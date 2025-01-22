@@ -1,8 +1,9 @@
 <div align="center">
-  
 # Hello, I'm Rijan Majhi 👋
 ![Animated Image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN212amtrcWpsdmtuZzh6OHB6YXVhZjVoa2wzaTF4c2dpMnVkNnBlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/131vvhfZe6HGyk/giphy.gif)
-<div>
+</div>
+  
+<div align="left">
   
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
 I'm a passionate **Frontend Developer** and **Designer** with a strong interest in creating seamless user experiences. I specialize in:
@@ -42,3 +43,5 @@ You can reach me via email at [rijanmjahi21@gmail.com](mailto:rijanmjahi21@gmail
 
 ## <img src="https://media.giphy.com/media/JWuBH9rCO2uZJvB0lN/giphy.gif" width="30"> 📝 Fun Fact
 I love creating artwork and am also working on building an online art gallery to showcase my sketches and paintings!
+
+</div>
