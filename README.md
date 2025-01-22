@@ -1,7 +1,11 @@
 <div align="center">
+  
 # Hello, I'm Rijan Majhi 👋
+
 ![Animated Image](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN212amtrcWpsdmtuZzh6OHB6YXVhZjVoa2wzaTF4c2dpMnVkNnBlaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/131vvhfZe6HGyk/giphy.gif)
+
 </div>
+
   
 <div align="left">
   
