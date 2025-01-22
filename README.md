@@ -9,7 +9,7 @@ I'm a passionate **Frontend Developer** and **Designer** with a strong interest 
 - **Other Interests**: Problem-solving, creative design, and staying updated with the latest web trends.
 
 When I'm not coding, I love sketching, painting, and contributing to open-source projects.
-<summary><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="30"> Resume</summary>
+<summary><img src="https://media.giphy.com/media/xUA7b8vlrMZU0O4Ezm/giphy.gif" width="30">  Resume</summary>
   
 ### Experience
   - **Frontend Developer** at XYZ Company (2023 - Present)
