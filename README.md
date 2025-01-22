@@ -2,7 +2,7 @@
   
 # Hello, I'm Rijan Majhi 👋
 
-![Animated Image](https://giphy.com/gifs/naruto-shippuden-yo-BaLggE7K8JBXa)
+![Animated Image](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzNhbWZwMXdnaXpyN2Jsam1ocmQwY3YzeTVsMGJ1eWQ5aGs3YmJlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BaLggE7K8JBXa/giphy.gif)
 
 </div>
 
