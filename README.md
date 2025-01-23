@@ -3,7 +3,10 @@
 # Hello, I'm Rijan Majhi 👋  
 ### Frontend Developer | Art Enthusiast  
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzNhbWZwMXdnaXpyN2Jsam1ocmQwY3YzeTVsMGJ1eWQ5aGs3YmJlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BaLggE7K8JBXa/giphy.gif" alt="Madara">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzNhbWZwMXdnaXpyN2Jsam1ocmQwY3YzeTVsMGJ1eWQ5aGs3YmJlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BaLggE7K8JBXa/giphy.gif" alt="Madara" width="500">
+
+### Profile Visits:  
+![Visitor Count](https://hits.dwyl.com/rijanmajhi21/rijanmajhi21.svg?style=flat-square&show=unique)
 
 </div>
 
@@ -20,7 +23,7 @@ I'm a passionate **Frontend Developer** and **Designer** with a strong interest 
 When I'm not coding, I love sketching, painting, and contributing to open-source projects.
 
 <details>
-  <summary><span style="font-size: 1.2em;">📖 <b>Resume</b></span></summary>
+  <summary><img src="https://media.giphy.com/media/3o7WIxRFyQp4qweqsg/giphy.gif" width="30"> <span style="font-size: 1.2em;"><b>Resume</b></span></summary>
   
   ### Experiences
   - **Frontend Developer Intern** at Bookmundi (November, 2024 - Present)
@@ -42,7 +45,7 @@ When I'm not coding, I love sketching, painting, and contributing to open-source
 </details>
 
 <details>
-  <summary><span style="font-size: 1.2em;">🚀 <b>Stats</b></span></summary>
+  <summary><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXc2Mm5xenl3Z2IzMHlhcnpncnNodnRjM28zcHB4Ymw4eDZlMHVjYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/cxIjOLKZPc30cSSE5E/giphy.gif" width="30"> <span style="font-size: 1.2em;"><b>Stats</b></span></summary>
   
   ![Rijan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rijanmajhi21&show_icons=true&theme=radical)
   
