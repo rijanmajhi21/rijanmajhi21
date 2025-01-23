@@ -53,7 +53,7 @@ When I'm not coding, I love sketching, painting, and contributing to open-source
   
 </details>
 
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTAwMm54cmh0OWR1NTQ1NTBnb3V1cG92Mm8xNXI0YTYzdGlhZWV2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ugue6qpztERexYjHWF/giphy.gif" width="30"> Connect with Me
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDl2cmVxZGZudDE2dDRodnY5NHo3NjJtNHcxaW9jNzFyOGl3a3ZxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJ2FSgK7EzbGY5ipdV/giphy.gif" width="30"> Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/rijanmajhi/)
 - [Twitter](https://twitter.com/rijanmajhi)
 - [Instagram](https://www.instagram.com/rijanmajhi)
