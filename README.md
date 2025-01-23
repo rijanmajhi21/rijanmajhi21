@@ -1,6 +1,7 @@
 <div align="center">
   
-# Hello, I'm Rijan Majhi 👋
+# Hello, I'm Rijan Majhi 👋  
+### Frontend Developer | Art Enthusiast  
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzNhbWZwMXdnaXpyN2Jsam1ocmQwY3YzeTVsMGJ1eWQ5aGs3YmJlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BaLggE7K8JBXa/giphy.gif" alt="Madara">
 
@@ -19,7 +20,7 @@ I'm a passionate **Frontend Developer** and **Designer** with a strong interest 
 When I'm not coding, I love sketching, painting, and contributing to open-source projects.
 
 <details>
-  <summary><img src="https://media.giphy.com/media/xUA7b8vlrMZU0O4Ezm/giphy.gif" width="30"> Resume</summary>
+  <summary><img src="https://media.giphy.com/media/xUA7b8vlrMZU0O4Ezm/giphy.gif" width="30"> <b>Resume</b></summary>
   
   ### Experiences
   - **Frontend Developer Intern** at Bookmundi (November, 2024 - Present)
@@ -27,14 +28,12 @@ When I'm not coding, I love sketching, painting, and contributing to open-source
     
   - **UI/UX Designer** at Darvis Studios (December, 2022 - April, 2023)
     - Designed KYC platform.
-    - Information architecture and mind maps for the  system.
+    - Information architecture and mind maps for the system.
     - Newsletter template for Kindship.
    
-  - **Itinerary Map tagging** at Bookmundi (July, 2018 - Present)
-    - Experienced itinerary and map tagging.
-    - Knowledge on CO2 tagging.
-
-    
+  - **Itinerary Map Tagging** at Bookmundi (July, 2018 - Present)
+    - Experienced in itinerary and map tagging.
+    - Knowledge of CO2 tagging.
 
   ### Education
   - **Bachelor's in Information Management** NCCS College (2020 - Present) GPA: 3.90
@@ -42,8 +41,12 @@ When I'm not coding, I love sketching, painting, and contributing to open-source
   - **Secondary School** Adarsha Yog Hari Secondary School (2006 - 2018) GPA: 3.70
 </details>
 
-## 🚀 Stats
-![Rijan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rijanmajhi21&show_icons=true&theme=radical)
+<details>
+  <summary><img src="https://media.giphy.com/media/xUA7b8vlrMZU0O4Ezm/giphy.gif" width="30"> <b>Stats</b></summary>
+  
+  ![Rijan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rijanmajhi21&show_icons=true&theme=radical)
+  
+</details>
 
 ## <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="30"> 🌍 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/rijanmajhi/)
