@@ -12,7 +12,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
 I'm a passionate **Frontend Developer** and **Designer** with a strong interest in creating seamless user experiences. I specialize in:
 
-- **Frontend Frameworks**: React.js, Vue.js
+- **Frontend Frameworks**: Next.js, Vue.js
 - **Backend Tools**: Laravel, Node.js
 - **Design**: Figma and a keen eye for UI/UX aesthetics.
 - **Other Interests**: Creative design, and staying updated with the latest web trends.
