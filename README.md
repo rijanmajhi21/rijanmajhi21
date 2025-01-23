@@ -61,7 +61,7 @@ When I'm not coding, I love sketching, painting, and contributing to open-source
 ##  Contact Me
 You can reach me via email at [rijanmjahi21@gmail.com](mailto:rijanmjahi21@gmail.com)
 
-## 📝 Fun Fact
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWM2MmdkeGp3azYzOWdzaWZ6dTV0aTY5aGc0am5vajhwODRrdmo4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KyzOOFo0pDLsOnG2Dp/giphy.gif"  width="30"> Fun Fact
 I love creating artwork and am also working on building an online art gallery to showcase my sketches and paintings!
 
 </div>
