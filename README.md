@@ -53,12 +53,12 @@ When I'm not coding, I love sketching, painting, and contributing to open-source
   
 </details>
 
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxzYngzYzYybHdqZGoza2VuM3Viem15dW4yM3hpMW1xbHRkMWJ3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/faWsfcwkzbfZQ3HOac/giphy.gif" width="30"> Connect with Me
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxzYngzYzYybHdqZGoza2VuM3Viem15dW4yM3hpMW1xbHRkMWJ3ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/faWsfcwkzbfZQ3HOac/giphy.gif" width="50"> Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/rijanmajhi/)
 - [Twitter](https://twitter.com/rijanmajhi)
 - [Instagram](https://www.instagram.com/rijanmajhi)
 
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHdiNWE0NTVndGg5Y25nY3V3ajg2eWtzM3Q5Y3BycHBmNXY2ZXJ3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gX0dsOUA4qs3ZzyngU/giphy.gif" width="30">  Contact Me
+## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHdiNWE0NTVndGg5Y25nY3V3ajg2eWtzM3Q5Y3BycHBmNXY2ZXJ3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gX0dsOUA4qs3ZzyngU/giphy.gif" width="50">  Contact Me
 You can reach me via email at [rijanmjahi21@gmail.com](mailto:rijanmjahi21@gmail.com)
 
 ## 📝 Fun Fact
