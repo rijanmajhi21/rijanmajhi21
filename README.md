@@ -13,25 +13,33 @@ I'm a passionate **Frontend Developer** and **Designer** with a strong interest 
 
 - **Frontend Frameworks**: React.js, Vue.js
 - **Backend Tools**: Laravel, Node.js
-- **Design**: Figma, Adobe XD, and a keen eye for UI/UX aesthetics.
-- **Other Interests**: Problem-solving, creative design, and staying updated with the latest web trends.
+- **Design**: Figma and a keen eye for UI/UX aesthetics.
+- **Other Interests**: Creative design, and staying updated with the latest web trends.
 
 When I'm not coding, I love sketching, painting, and contributing to open-source projects.
 
 <details>
   <summary><img src="https://media.giphy.com/media/xUA7b8vlrMZU0O4Ezm/giphy.gif" width="30"> Resume</summary>
   
-  ### Experience
-  - **Frontend Developer** at XYZ Company (2023 - Present)
-    - Developed scalable and user-friendly web applications.
-    - Collaborated with cross-functional teams to deliver high-quality products.
-  - **Intern** at ABC Corporation (2022 - 2023)
+  ### Experiences
+  - **Frontend Developer Intern** at Bookmundi (November, 2024 - Present)
     - Built reusable UI components and fixed bugs in the company's primary platform.
+    
+  - **UI/UX Designer** at Darvis Studios (December, 2022 - April, 2023)
+    - Designed KYC platform.
+    - Information architecture and mind maps for the  system.
+    - Newsletter template for Kindship.
+   
+  - **Itinerary Map tagging** at Bookmundi (July, 2018 - Present)
+    - Experienced itinerary and map tagging.
+    - Knowledge on CO2 tagging.
+
+    
 
   ### Education
-  - **Bachelor's Degree in Computer Science** from University of ABC (2019 - 2023)
-    - Graduated with distinction and top of the class.
-  - **High School Diploma** from XYZ School (2017 - 2019)
+  - **Bachelor's in Information Management** NCCS College (2020 - Present) GPA: 3.90
+  - **Higher Education** NIST College (2018- 2020) GPA: 3.69
+  - **Secondary School** Adarsha Yog Hari Secondary School (2006 - 2018) GPA: 3.70
 </details>
 
 ## 🚀 Stats
