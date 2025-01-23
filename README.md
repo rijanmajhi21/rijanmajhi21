@@ -5,8 +5,10 @@
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzNhbWZwMXdnaXpyN2Jsam1ocmQwY3YzeTVsMGJ1eWQ5aGs3YmJlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BaLggE7K8JBXa/giphy.gif" alt="Madara" width="500">
 
-### Profile Visits:  
-![Visitor Count](https://hits.dwyl.com/rijanmajhi21/rijanmajhi21.svg?style=flat-square&show=unique)
+### Profile Visits:
+<span style="font-family: 'Digital-7', sans-serif; font-size: 2em; color: #32CD32;">
+  <img src="https://profile-counter.glitch.me/rijanmajhi21/count.svg" alt="visitor count">
+</span>
 
 </div>
 
@@ -23,7 +25,7 @@ I'm a passionate **Frontend Developer** and **Designer** with a strong interest 
 When I'm not coding, I love sketching, painting, and contributing to open-source projects.
 
 <details>
-  <summary><img src="https://media.giphy.com/media/3o7WIxRFyQp4qweqsg/giphy.gif" width="30"> <span style="font-size: 1.2em;"><b>Resume</b></span></summary>
+  <summary><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTkzbXBxeGpycmhmZ3dwMzU1dHBzZjRqamQ5OW9ueGN5YmFmcmo2bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eJEvETAuEly6H7jGaR/giphy.gif" width="30"> <b>Resume</b></span></summary>
   
   ### Experiences
   - **Frontend Developer Intern** at Bookmundi (November, 2024 - Present)
