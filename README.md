@@ -12,7 +12,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
 I'm a passionate **Frontend Developer** and **Designer** with a strong interest in creating seamless user experiences. I specialize in:
 
-- **Frontend Frameworks**: Next.js, Vue.js
+- **Frontend Frameworks**: React.js, Vue.js
 - **Backend Tools**: Laravel, Node.js
 - **Design**: Figma and a keen eye for UI/UX aesthetics.
 - **Other Interests**: Creative design, and staying updated with the latest web trends.
@@ -20,7 +20,7 @@ I'm a passionate **Frontend Developer** and **Designer** with a strong interest 
 When I'm not coding, I love sketching, painting, and contributing to open-source projects.
 
 <details>
-  <summary><img src="https://media.giphy.com/media/xUA7b8vlrMZU0O4Ezm/giphy.gif" width="30"> <b>Resume</b></summary>
+  <summary><span style="font-size: 1.2em;">📖 <b>Resume</b></span></summary>
   
   ### Experiences
   - **Frontend Developer Intern** at Bookmundi (November, 2024 - Present)
@@ -42,18 +42,18 @@ When I'm not coding, I love sketching, painting, and contributing to open-source
 </details>
 
 <details>
-  <summary><img src="https://media.giphy.com/media/xUA7b8vlrMZU0O4Ezm/giphy.gif" width="30"> <b>Stats</b></summary>
+  <summary><span style="font-size: 1.2em;">🚀 <b>Stats</b></span></summary>
   
   ![Rijan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rijanmajhi21&show_icons=true&theme=radical)
   
 </details>
 
-## <img src="https://media.giphy.com/media/TilmLMmWrRYYHjLfub/giphy.gif" width="30"> 🌍 Connect with Me
+## 🌍 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/rijanmajhi/)
 - [Twitter](https://twitter.com/rijanmajhi)
 - [Instagram](https://www.instagram.com/rijanmajhi)
 
-## <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="30"> 📞 Contact Me
+## 📞 Contact Me
 You can reach me via email at [rijanmjahi21@gmail.com](mailto:rijanmjahi21@gmail.com)
 
 ## <img src="https://media.giphy.com/media/JWuBH9rCO2uZJvB0lN/giphy.gif" width="30"> 📝 Fun Fact
