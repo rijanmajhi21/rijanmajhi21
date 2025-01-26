@@ -25,7 +25,7 @@ I'm a passionate **Frontend Developer** and **Designer** with a strong interest 
 When I'm not coding, I love sketching, painting, and contributing to open-source projects.
 
 <details>
-  <summary><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzMzYmprZjNpNnJ2cnFhcTF1MmwzczZ4ZnBzMnU3MjB0MWl4NnY1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eJEvETAuEly6H7jGaR/giphy.gif"  width="50"> Resume</summary>
+  <summary><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzMzYmprZjNpNnJ2cnFhcTF1MmwzczZ4ZnBzMnU3MjB0MWl4NnY1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eJEvETAuEly6H7jGaR/giphy.gif" width="50"><h1>Resume</h1></summary>
   
   ### <b style="font-size: 1.2em;">Experiences</b>
   - **Frontend Developer Intern** at Bookmundi (November, 2024 - Present)
