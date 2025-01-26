@@ -25,7 +25,7 @@ I'm a passionate **Frontend Developer** and **Designer** with a strong interest 
 When I'm not coding, I love sketching, painting, and contributing to open-source projects.
 
 <details>
-  <summary style="font-size: 1.5em; cursor: pointer;">
+  <summary style="font-size: 1.5em; font-weight: bold; cursor: pointer;">
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzMzYmprZjNpNnJ2cnFhcTF1MmwzczZ4ZnBzMnU3MjB0MWl4NnY1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eJEvETAuEly6H7jGaR/giphy.gif" width="30"> <b>Resume</b>
   </summary>
   
@@ -49,7 +49,7 @@ When I'm not coding, I love sketching, painting, and contributing to open-source
 </details>
 
 <details>
-  <summary style="font-size: 1.5em; cursor: pointer;">
+  <summary style="font-size: 1.5em; font-weight: bold; cursor: pointer;">
     <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBwYnA3Y3FzOW5pNjdsMjJreXlnbnd3b3JwZnE3YmUycDV5N2wwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8ekmDODACSSXxWuBRz/giphy.gif" width="30"> <b>Stats</b>
   </summary>
   
