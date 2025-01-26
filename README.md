@@ -14,7 +14,7 @@
 
 <div align="left">
   
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"> About Me
 I'm a passionate **Frontend Developer** and **Designer** with a strong interest in creating seamless user experiences. I specialize in:
 
 - **Frontend Frameworks**: React.js, Vue.js
@@ -25,7 +25,7 @@ I'm a passionate **Frontend Developer** and **Designer** with a strong interest 
 When I'm not coding, I love sketching, painting, and contributing to open-source projects.
 
 <details>
-  <summary><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzMzYmprZjNpNnJ2cnFhcTF1MmwzczZ4ZnBzMnU3MjB0MWl4NnY1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eJEvETAuEly6H7jGaR/giphy.gif"  width="30"> <b>Resume</b></span></summary>
+  <summary><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzMzYmprZjNpNnJ2cnFhcTF1MmwzczZ4ZnBzMnU3MjB0MWl4NnY1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eJEvETAuEly6H7jGaR/giphy.gif"  width="50"> <b>Resume</b></summary>
   
   ### Experiences
   - **Frontend Developer Intern** at Bookmundi (November, 2024 - Present)
@@ -47,13 +47,13 @@ When I'm not coding, I love sketching, painting, and contributing to open-source
 </details>
 
 <details>
-  <summary><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBwYnA3Y3FzOW5pNjdsMjJreXlnbnd3b3JwZnE3YmUycDV5N2wwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8ekmDODACSSXxWuBRz/giphy.gif" width="30"><b>Stats</b></span></summary>
+  <summary><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBwYnA3Y3FzOW5pNjdsMjJreXlnbnd3b3JwZnE3YmUycDV5N2wwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8ekmDODACSSXxWuBRz/giphy.gif" width="50"><b>Stats</b></summary>
   
   ![Rijan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rijanmajhi21&show_icons=true&theme=radical)
   
 </details>
 
-## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDl2cmVxZGZudDE2dDRodnY5NHo3NjJtNHcxaW9jNzFyOGl3a3ZxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJ2FSgK7EzbGY5ipdV/giphy.gif" width="30"> Connect with Me
+## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDl2cmVxZGZudDE2dDRodnY5NHo3NjJtNHcxaW9jNzFyOGl3a3ZxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJ2FSgK7EzbGY5ipdV/giphy.gif" width="50"> Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/rijanmajhi/)
 - [Twitter](https://twitter.com/rijanmajhi)
 - [Instagram](https://www.instagram.com/rijanmajhi)
@@ -61,7 +61,7 @@ When I'm not coding, I love sketching, painting, and contributing to open-source
 ##  Contact Me
 You can reach me via email at [rijanmjahi21@gmail.com](mailto:rijanmjahi21@gmail.com)
 
-## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWM2MmdkeGp3azYzOWdzaWZ6dTV0aTY5aGc0am5vajhwODRrdmo4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KyzOOFo0pDLsOnG2Dp/giphy.gif"  width="30"> Fun Fact
+## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWM2MmdkeGp3azYzOWdzaWZ6dTV0aTY5aGc0am5vajhwODRrdmo4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KyzOOFo0pDLsOnG2Dp/giphy.gif"  width="50"> Fun Fact
 I love creating artwork and am also working on building an online art gallery to showcase my sketches and paintings!
 
 </div>
