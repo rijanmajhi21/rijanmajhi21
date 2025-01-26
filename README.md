@@ -58,7 +58,11 @@ When I'm not coding, I love sketching, painting, and contributing to open-source
 - [Twitter](https://twitter.com/rijanmajhi)
 - [Instagram](https://www.instagram.com/rijanmajhi)
 
-## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnk1M2Uyc2M1bGd3N2t4NzhhajgyY2xzODVtbHozY2xiNHRyajd1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.gif" width="50"> Contact Me
+## ## <span style="display: flex; align-items: center; justify-content: center;">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnk1M2Uyc2M1bGd3N2t4NzhhajgyY2xzODVtbHozY2xiNHRyajd1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.gif" width="50" style="margin-right: 10px;">
+  Contact Me
+</span>
+
 You can reach me via email at [rijanmjahi21@gmail.com](mailto:rijanmjahi21@gmail.com)
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWM2MmdkeGp3azYzOWdzaWZ6dTV0aTY5aGc0am5vajhwODRrdmo4biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KyzOOFo0pDLsOnG2Dp/giphy.gif"  width="50"> Fun Fact
