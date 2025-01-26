@@ -47,7 +47,7 @@ When I'm not coding, I love sketching, painting, and contributing to open-source
 </details>
 
 <details>
-  <summary><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBwYnA3Y3FzOW5pNjdsMjJreXlnbnd3b3JwZnE3YmUycDV5N2wwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8ekmDODACSSXxWuBRz/giphy.gif" width="50"><h2>Stats</h2></summary>
+  <summary><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGk4YndvMDd4MGtpcGdtMzNwaXE0eDFxcWxqaDYxeXh2Z2tzcXBocyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rCi9DfebcxvmINnrs2/giphy.gif" width="50"><h2>Stats</h2></summary>
   
   ![Rijan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rijanmajhi21&show_icons=true&theme=radical)
   
