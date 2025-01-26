@@ -25,9 +25,9 @@ I'm a passionate **Frontend Developer** and **Designer** with a strong interest 
 When I'm not coding, I love sketching, painting, and contributing to open-source projects.
 
 <details>
-  <summary><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzMzYmprZjNpNnJ2cnFhcTF1MmwzczZ4ZnBzMnU3MjB0MWl4NnY1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eJEvETAuEly6H7jGaR/giphy.gif"  width="50"> <b>Resume</b></summary>
+  <summary><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzMzYmprZjNpNnJ2cnFhcTF1MmwzczZ4ZnBzMnU3MjB0MWl4NnY1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eJEvETAuEly6H7jGaR/giphy.gif"  width="50"> <b style="font-size: 1.5em;">Resume</b></summary>
   
-  ### Experiences
+  ### <b style="font-size: 1.2em;">Experiences</b>
   - **Frontend Developer Intern** at Bookmundi (November, 2024 - Present)
     - Built reusable UI components and fixed bugs in the company's primary platform.
     
@@ -40,14 +40,14 @@ When I'm not coding, I love sketching, painting, and contributing to open-source
     - Experienced in itinerary and map tagging.
     - Knowledge of CO2 tagging.
 
-  ### Education
+  ### <b style="font-size: 1.2em;">Education</b>
   - **Bachelor's in Information Management** NCCS College (2020 - Present) GPA: 3.90
   - **Higher Education** NIST College (2018- 2020) GPA: 3.69
   - **Secondary School** Adarsha Yog Hari Secondary School (2006 - 2018) GPA: 3.70
 </details>
 
 <details>
-  <summary><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBwYnA3Y3FzOW5pNjdsMjJreXlnbnd3b3JwZnE3YmUycDV5N2wwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8ekmDODACSSXxWuBRz/giphy.gif" width="50"><b>Stats</b></summary>
+  <summary><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBwYnA3Y3FzOW5pNjdsMjJreXlnbnd3b3JwZnE3YmUycDV5N2wwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/8ekmDODACSSXxWuBRz/giphy.gif" width="50"><b style="font-size: 1.5em;">Stats</b></summary>
   
   ![Rijan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rijanmajhi21&show_icons=true&theme=radical)
   
