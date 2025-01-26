@@ -57,17 +57,17 @@ When I'm not coding, I love sketching, painting, and contributing to open-source
 <a href="https://www.instagram.com/rijanmajhi/" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: black;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="30" height="30" style="margin-right: 10px;"> 
   Instagram
-</a>
+</a> <br>
 
 <a href="https://www.linkedin.com/in/rijanmajhi/" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: black;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LinkedIn_Logo_2023.png" width="30" height="30" style="margin-right: 10px;">
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/8/8e/LinkedIn_Logo_2023.png](https://imgs.search.brave.com/SQsaFNKXL9x2pacICOrPpnY5c1-Eee1Vf0jOmntInaM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy9j/L2NhL0xpbmtlZElu/X2xvZ29faW5pdGlh/bHMucG5n)" width="30" height="30" style="margin-right: 10px;">
   LinkedIn
-</a>
+</a> <br>
 
 <a href="https://www.facebook.com/rijanmajhi" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: black;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="30" height="30" style="margin-right: 10px;">
   Facebook
-</a>
+</a> <br>
 
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnk1M2Uyc2M1bGd3N2t4NzhhajgyY2xzODVtbHozY2xiNHRyajd1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.gif" height="50" width="50"> Contact Me
