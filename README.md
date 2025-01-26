@@ -54,9 +54,9 @@ When I'm not coding, I love sketching, painting, and contributing to open-source
 </details>
 
 ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDl2cmVxZGZudDE2dDRodnY5NHo3NjJtNHcxaW9jNzFyOGl3a3ZxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJ2FSgK7EzbGY5ipdV/giphy.gif" width="50"> Connect with Me
-[![Instagram](https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg)](https://www.instagram.com/rijanmajhi/) Instagram  
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/8e/LinkedIn_Logo_2023.png)](https://www.linkedin.com/in/rijanmajhi/) LinkedIn  
-[![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg)](https://www.facebook.com/rijanmajhi) Facebook
+[![Instagram](https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg)](https://www.instagram.com/rijanmajhi/) <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" width="30" height="30"> Instagram  
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/8e/LinkedIn_Logo_2023.png)](https://www.linkedin.com/in/rijanmajhi/) <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LinkedIn_Logo_2023.png" width="30" height="30"> LinkedIn  
+[![Facebook](https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg)](https://www.facebook.com/rijanmajhi) <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="30" height="30"> Facebook
 
 ## <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnk1M2Uyc2M1bGd3N2t4NzhhajgyY2xzODVtbHozY2xiNHRyajd1OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.gif" height="50" width="50"> Contact Me
 
