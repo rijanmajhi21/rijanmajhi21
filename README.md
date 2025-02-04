@@ -1,7 +1,6 @@
 <div align="center">
   
 Hi 👋 My name is Rijan Majhi!
-=============================
 
 Front-end Developer | Art Enthusiast
 ------------------------------------
