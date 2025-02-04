@@ -1,6 +1,7 @@
 <div align="center">
   
 Hi 👋 My name is Rijan Majhi!
+=============================
 
 Front-end Developer | Art Enthusiast
 ------------------------------------
@@ -11,6 +12,9 @@ Front-end Developer | Art Enthusiast
 <span style="font-family: 'Digital-7', sans-serif; font-size: 2em; color: #32CD32;">
   <img src="https://profile-counter.glitch.me/rijanmajhi21/count.svg" alt="visitor count">
 </span>
+
+<a href="https://www.github.com/rijanmajhi21" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/rijanmajhi21?logo=github&style=for-the-badge&color=14b8a6&labelColor=000000" /></a>
 
 </div>
 
@@ -49,8 +53,7 @@ Hi, I'm Rijan Majhi, a passionate frontend developer and art enthusiast. I love 
   - **Secondary School** Adarsha Yog Hari Secondary School (2006 - 2018) GPA: 3.70
 </details>
 
-<a href="https://www.github.com/rijanmajhi21" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/rijanmajhi21?logo=github&style=for-the-badge&color=14b8a6&labelColor=000000" /></a>
+
 ### Skills
 
 <p align="left">
