@@ -34,23 +34,27 @@ Hi, I'm Rijan Majhi, a passionate frontend developer and art enthusiast. I love 
 <details>
   <summary><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzMzYmprZjNpNnJ2cnFhcTF1MmwzczZ4ZnBzMnU3MjB0MWl4NnY1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eJEvETAuEly6H7jGaR/giphy.gif" width="50"><h2>Resume</h2></summary>
   
-  ### <b style="font-size: 1.2em;">Experiences</b> 
-   - **Frontend Developer Trainrr** at Bookmundi (April, 2025 - Present)
-    - Taking on more independent responsibilities in building and optimizing UI components.
-    - Leading minor feature implementations and enhancing component reusability across the platform.
-    - Actively involved in debugging and improving performance, accessibility, and responsiveness of the web app.
+ ### <b style="font-size: 1.2em;">Experiences</b> 
 
-  - **Frontend Developer Intern** at Bookmundi (November, 2024 - March, 2025)
-    - Built reusable UI components and fixed bugs in the company's primary platform.
-    
-  - **UI/UX Designer** at Darvis Studios (December, 2022 - April, 2023)
-    - Designed KYC platform.
-    - Information architecture and mind maps for the system.
-    - Newsletter template for Kindship.
-   
-  - **Itinerary Map Tagging** at Bookmundi (July, 2018 - Present)
-    - Experienced in itinerary and map tagging.
-    - Knowledge of CO2 tagging.
+- **Frontend Developer Trainee** at Bookmundi (April 2025 – Present)  
+  – Taking on more independent responsibilities in building and optimizing UI components.  
+  – Leading minor feature implementations and improving component reusability across the platform.  
+  – Actively involved in debugging and enhancing performance, accessibility, and responsiveness of the web app.
+
+- **Frontend Developer Intern** at Bookmundi (November 2024 – March 2025)  
+  – Built reusable UI components and resolved bugs in the company’s primary platform.  
+  – Collaborated with senior developers to implement UI enhancements based on design specifications.  
+
+- **UI/UX Designer** at Darvis Studios (December 2022 – April 2023)  
+  – Designed a KYC platform with a focus on user flow and usability.  
+  – Created information architecture and mind maps to support system planning.  
+  – Designed newsletter templates for Kindship.
+
+- **Itinerary Map Tagging** at Bookmundi (July 2018 – Present)  
+  – Experienced in tagging itineraries and maps for travel listings.  
+  – Familiar with CO2 tagging processes and standards.
+
+
 
   ### <b style="font-size: 1.2em;">Education</b>
   - **Bachelor's in Information Management** NCCS College (2020 - Present) GPA: 3.90
