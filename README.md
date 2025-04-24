@@ -34,8 +34,13 @@ Hi, I'm Rijan Majhi, a passionate frontend developer and art enthusiast. I love 
 <details>
   <summary><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzMzYmprZjNpNnJ2cnFhcTF1MmwzczZ4ZnBzMnU3MjB0MWl4NnY1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eJEvETAuEly6H7jGaR/giphy.gif" width="50"><h2>Resume</h2></summary>
   
-  ### <b style="font-size: 1.2em;">Experiences</b>
-  - **Frontend Developer Intern** at Bookmundi (November, 2024 - Present)
+  ### <b style="font-size: 1.2em;">Experiences</b> 
+   - **Frontend Developer Trainrr** at Bookmundi (April, 2025 - Present)
+    - Taking on more independent responsibilities in building and optimizing UI components.
+    - Leading minor feature implementations and enhancing component reusability across the platform.
+    - Actively involved in debugging and improving performance, accessibility, and responsiveness of the web app.
+
+  - **Frontend Developer Intern** at Bookmundi (November, 2024 - March, 2025)
     - Built reusable UI components and fixed bugs in the company's primary platform.
     
   - **UI/UX Designer** at Darvis Studios (December, 2022 - April, 2023)
