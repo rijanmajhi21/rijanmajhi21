@@ -35,8 +35,13 @@ Hi, I'm Rijan Majhi, a passionate frontend developer and art enthusiast. I love 
   <summary><img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzMzYmprZjNpNnJ2cnFhcTF1MmwzczZ4ZnBzMnU3MjB0MWl4NnY1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eJEvETAuEly6H7jGaR/giphy.gif" width="50"><h2>Resume</h2></summary>
   
  ### <b style="font-size: 1.2em;">Experiences</b> 
+ - **Junior Software Engineer** at Bookmundi (June 2025 – Present)
+  – Built and launched a high-performance landing page for Bookmundi, optimized for SEO and speed.
+  – Developing and maintaining production-level features in a large-scale Next.js application.  
+  – Migrating session-based functionalities to optimized client-side alternatives for better performance.  
+  – Collaborating with design and backend teams to ship pixel-perfect, high-performing user interfaces..
 
-- **Frontend Developer Trainee** at Bookmundi (April 2025 – Present)  
+- **Frontend Developer Trainee** at Bookmundi (April 2025 – May 2025)  
   – Taking on more independent responsibilities in building and optimizing UI components.  
   – Leading minor feature implementations and improving component reusability across the platform.  
   – Actively involved in debugging and enhancing performance, accessibility, and responsiveness of the web app.
