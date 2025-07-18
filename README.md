@@ -62,7 +62,7 @@ Hi, I'm Rijan Majhi, a passionate frontend developer and art enthusiast. I love 
 
 
   ### <b style="font-size: 1.2em;">Education</b>
-  - **Bachelor's in Information Management** NCCS College (2020 - 2025) GPA: 3.90
+  - **Bachelor's in Information Management** NCCS College (2020 - 2025) GPA(8th semester): 3.93
   - **Higher Education** NIST College (2018- 2020) GPA: 3.69
   - **Secondary School** Adarsha Yog Hari Secondary School (2006 - 2018) GPA: 3.70
 </details>
